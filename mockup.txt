@@ -1,0 +1,60 @@
+═══════════════════════════════════════════════
+          █▓▒░ CMD AI ASSISTANT v1.0 ░▒▓█
+═══════════════════════════════════════════════
+
+[System] Hello, Developer! How can I assist you today?
+
+> time
+[Assistant] The current time is 14:35:12.
+
+> date
+[Assistant] Today's date is June 28, 2025.
+
+> search python decorators
+[Assistant] Opening browser to search for: python decorators...
+
+> ask what is a neural network?
+[Assistant] A neural network is a series of algorithms that mimic the operations of a human brain to recognize relationships between vast amounts of data...
+
+> help
+[Assistant] Available Commands:
+           - time       → Get current time
+           - date       → Get today's date
+           - search     → Web search
+           - ask        → Ask any question using AI
+           - clear      → Clear the screen
+           - exit       → Quit the assistant
+
+> exit
+[System] Goodbye! Have a productive day.
+
+═══════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔰 WELCOME BACK, GENNADY 🔰
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏱️  Time:         07:00 AM
+📅  Date:         Friday, 27 June 2025
+🌐  Network:      Connected (IP: 192.168.0.101)
+🔋  Battery:      92% [Plugged In]
+💻  Uptime:       1 min 32 sec
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📬  Unread Emails:    5 (Gmail)
+📅  Today's Events:   3 Meetings
+
+🧠  Assistant Status: Online
+🗣️  Voice Mode:       Disabled
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 Commands Available:
+ - weather       → Check current weather
+ - mail          → Open Gmail
+ - open web      → Launch daily websites
+ - code          → Launch VS Code
+ - system        → Show system info
+ - exit          → Close Astra
+
+👂 Waiting for your command, Commander...
+
