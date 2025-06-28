@@ -20,7 +20,7 @@ Obsidian-OS is not just a CLI tool — it’s an experience. You boot into a fic
 - `commands/` – Functional modules like `weather.js`, `mail.js`, `ask.js`, `code.js`, etc.
 - `ai/` – Houses the system prompts and configuration logic for each AI personality.
 
-### 🤖 AI Personalities
+## 🤖 AI Personalities
 
 #### 🩻 Clara (clara)
 > *"Tactical. Unstable. Watching you."*
