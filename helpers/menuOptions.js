@@ -9,8 +9,8 @@ export default async function menuOptions() {
     console.log(chalk.white("> nova    ") + chalk.green("→  Launch pre-sentient AI assistant (friendly • safe)"));
     console.log(chalk.white("> clara   ") + chalk.red("→  Engage tactical AI interface (unstable • classified)"));
     console.log(chalk.white("> system  ") + chalk.gray("→  Show system info"));
-    console.log(chalk.white("> exit    ") + chalk.gray("→  Close OBSIDIAN-OS"));
     console.log(chalk.white("> help    ") + chalk.gray("→  List all commands"));
+    console.log(chalk.white("> exit    ") + chalk.gray("→  Close OBSIDIAN-OS"));
 
     console.log(chalk.white("\nWaiting for your directive, Commander..."));
 }

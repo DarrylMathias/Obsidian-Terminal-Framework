@@ -5,8 +5,8 @@ import { getWeatherData, generateWeatherTagline } from '../commands/weather.js'
 import openMail from "../commands/mail.js";
 import search from "../commands/search.js";
 import launchCode from "../commands/code.js";
-import claraResponse from "../commands/clara.js";
-import novaResponse from '../commands/nova.js'
+import claraResponse from "../ai/clara.js";
+import novaResponse from '../ai/nova.js'
 import { delayLogs } from "../helpers/timers.js";
 import systemConfig from "../commands/system.js";
 import menuOptions from '../helpers/menuOptions.js'

@@ -61,13 +61,13 @@ export async function bootSuccess() {
         chalk.green(`
 ╔════════════════ OBSIDIAN-OS v3.09 ════════════════╗
 ║ ${chalk.white("Class: Autonomous Recon Terminal (Restricted)")}     ║
-║ ${chalk.white("Access Key: D-MATHIAS")}${" ".repeat(29)}║
+║ ${chalk.white("Access Key: XN-42-OMEGA")}${" ".repeat(29)}║
 ║ ${chalk.white("Status: CLEARED | ACCESS LEVEL: UNKNOWN")}${" ".repeat(11)}║
 ╚═══════════════════════════════════════════════════╝`)
     );
     await shortDelayLogs(chalk.yellow(`${timeOfDay()}`))
     await delayLogs(chalk.white('Loading system logs to analyse health..'))
-    await delayLogs(chalk.white('\n\n> Operator ID: ') + 'D-MATHIAS');
+    await delayLogs(chalk.white('\n\n> Operator ID: ') + 'XN-42-OMEGA');
     await shortDelayLogs(chalk.white('> Rank: ') + 'ROOT | Clearance: FULL');
     await shortDelayLogs(chalk.white('> Protocol Stack: ') + 'Online\n');
 

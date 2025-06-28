@@ -4,7 +4,7 @@ dotenv.config()
 
 export async function getWeatherData(){
     try {
-        const data = await axios.get(`https://api.openweathermap.org/data/2.5/weather?q=Boisar&appid=${process.env.WEATHER_MAP_API_KEY}&units=metric`)
+        const data = await axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${process.env.USER_LOCATION}&appid=${process.env.WEATHER_MAP_API_KEY}&units=metric`)
         return data;
     } catch (error) {
         console.log("Error (weather):", error.response?.data || error.message);
