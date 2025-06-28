@@ -78,6 +78,7 @@ It’s a playground for both imagination and utility — ideal for roleplay-lovi
 
 ```bash
 git clone https://github.com/DarrylMathias/Obsidian-Terminal-Framework.git
+cd Obsidian-Terminal-Framework
 npm install
 npm run ob
 ```
@@ -93,7 +94,7 @@ USER_LOCATION = yourLocation
 ```
 ## 👥 Contributing
 
-Want to build your own AI modules? Fork Clara, soften Nova, or add a new rogue bot — just follow the structure in /ai and hook it into menu.js for yourself.
+Want to build your own AI modules? Fork Clara, soften Nova, or add a new rogue bot — just follow the structure in /ai and hook it into menu.js for yourself. Your most welcome to add an AI army.
 
 ## ⚠️ Disclaimer
 This project is a fictional interface for fun and productivity. No actual nukes are launched by Clara 😅.
