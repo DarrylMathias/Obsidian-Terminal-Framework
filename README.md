@@ -19,6 +19,8 @@ Obsidian-OS is not just a CLI tool — it’s an experience. You boot into a fic
 - `helpers/` – Contains utility functions for delays, timers, formatting, etc.
 - `commands/` – Functional modules like `weather.js`, `mail.js`, `ask.js`, `code.js`, etc.
 - `ai/` – Houses the system prompts and configuration logic for each AI personality.
+  
+---
 
 ## 🤖 AI Personalities
 
@@ -60,6 +62,7 @@ Obsidian-OS is not just a CLI tool — it’s an experience. You boot into a fic
 | `system`    | Displays system diagnostics, uptime, battery, IP, etc. of your PC     |
 | `help`      | Reprints the command menu.                                        |
 | `exit`      | Initiates shutdown of Obsidian-OS.  |
+
 ---
 
 ## 🔐 Philosophy
@@ -91,6 +94,9 @@ OPENWEATHER_API_KEY = yourOpenWeatherKey
 VSCODE_LOCATION = locationOfVSCodeOnYourComputer
 USER_LOCATION = yourLocation
 ```
+
+---
+
 ## 👥 Contributing
 
 Want to build your own AI modules? Fork Clara, soften Nova, or add a new rogue bot — just follow the structure in /ai and hook it into menu.js for yourself.
